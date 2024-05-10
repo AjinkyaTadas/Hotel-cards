@@ -1,0 +1,29 @@
+.container{
+ max-width: 800px;
+ margin: 10px auto;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  max-width: 800px;
+  margin-bottom: 1rem;
+  border: 2px solid black;
+}
+.card-img-top{
+  max-width: fit-content;
+  max-height: 350px;
+  margin: 20px;
+}
+
+.btn{
+margin-left: 155px;
+}
+
+.image{
+  max-width: 350px;
+  max-height: 300px;
+  margin-top: 5px;
+  border-radius: 15px;
+}
